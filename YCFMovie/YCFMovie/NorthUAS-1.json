@@ -1,0 +1,195 @@
+{
+    "date": "4月9日 － 4月12日",
+    "subjects": [
+                 
+                 { "box" : 78158000,
+                 "new" : false,
+                 "rank" : 7,
+                 "subject" : {
+                 "rating" : {"max":10,"average":6.7,"stars":"50","min":0},
+                 "title" : "速度与激情7",
+                 "original_title" : "Oblivion",
+                 "subtype" : "movie",
+                 "year" : "2015",
+                 "images" : {
+                 "small":"http://img3.douban.com/view/photo/icon/public/p1931650344.jpg",
+                 "large":"http://img3.douban.com/view/movie_poster_cover/lpst/public/p1931650344.jpg",
+                 "medium":"http://g.hiphotos.baidu.com/baike/s%3D220/sign=def2af8f29f5e0feea188e036c6234e5/bba1cd11728b471097ff5d5ac7cec3fdfd032357.jpg"
+                 },
+                 "alt" : "http://movie.douban.com/subject/3895511",
+                 "id" : "3895511"
+                 }
+                 },
+                 
+                 { "box" : 78158000,
+                 "new" : false,
+                 "rank" : 7,
+                 "subject" : {
+                 "rating" : {"max":10,"average":6.7,"stars":"50","min":0},
+                 "title" : "第七子 : 降魔之战",
+                 "original_title" : "Oblivion",
+                 "subtype" : "movie",
+                 "year" : "2015",
+                 "images" : {
+                 "small":"http://img3.douban.com/view/photo/icon/public/p1931650344.jpg",
+                 "large":"http://img3.douban.com/view/movie_poster_cover/lpst/public/p1931650344.jpg",
+                 "medium":"http://c.hiphotos.baidu.com/baike/crop%3D0%2C0%2C584%2C828%3Bh%3D195%3Bq%3D95/sign=d7c5cd44d2c8a786aa65104e5a39e50d/8644ebf81a4c510f2b238fa46359252dd52aa5ad.jpg"
+                 },
+                 "alt" : "http://movie.douban.com/subject/3895511",
+                 "id" : "3895511"
+                 }
+                 },
+                 
+          {   "box" : 38152000,
+              "new" : true,
+              "rank" : 1,
+              "subject" : {
+                 "rating" : {"max":10,"average":6.7,"stars":"35","min":0},
+                 "title" : "遗落战境1",
+                 "original_title" : "Oblivion",
+                 "subtype" : "movie",
+                 "year" : "2013",
+                 "images" : {
+                    "small":"http://img3.douban.com/view/photo/icon/public/p1931650344.jpg",
+                    "large":"http://img3.douban.com/view/movie_poster_cover/lpst/public/p1931650344.jpg",
+                    "medium":"http://img3.douban.com/view/movie_poster_cover/spst/public/p1931650344.jpg"
+                 },
+                 "alt" : "http://movie.douban.com/subject/3895511",
+                 "id" : "3895511"
+              }
+          },
+                 
+         { "box" : 18025000,
+           "new" : false,
+           "rank" : 2,
+           "subject" : {
+                 "rating" : {"max":10,"average":7.5,"stars":"40","min":0},
+                 "title" : "42号传奇",
+                 "original_title" : "Oblivion",
+                 "subtype" : "movie",
+                 "year" : "2013",
+                 "images" : {
+                     "small":"http://img3.douban.com/view/photo/icon/public/p1931650344.jpg",
+                     "large":"http://img3.douban.com/view/movie_poster_cover/lpst/public/p1931650344.jpg",
+                     "medium":"http://a.hiphotos.baidu.com/baike/s%3D220/sign=f4ac278332fa828bd5239ae1cd1e41cd/5366d0160924ab18dfb942b134fae6cd7a890b8c.jpg"
+                      },
+                 "alt" : "http://movie.douban.com/subject/3895511",
+                 "id" : "3895511"
+             }
+        },
+         { "box" : 38158000,
+           "new" : false,
+           "rank" : 3,
+           "subject" : {
+             "rating" : {"max":10,"average":6.7,"stars":"50","min":0},
+             "title" : "生化危机7",
+             "original_title" : "Oblivion",
+             "subtype" : "movie",
+             "year" : "2015",
+             "images" : {
+                 "small":"http://img3.douban.com/view/photo/icon/public/p1931650344.jpg",
+                 "large":"http://img3.douban.com/view/movie_poster_cover/lpst/public/p1931650344.jpg",
+                 "medium":"http://g.hiphotos.baidu.com/baike/w%3D268/sign=fd6bc2c77bf0f736d8fe4b073254b382/9f2f070828381f30bf2b7911aa014c086e06f05c.jpg"
+             },
+             "alt" : "http://movie.douban.com/subject/3895511",
+             "id" : "3895511"
+           }
+         },
+         { "box" : 48158000,
+         "new" : false,
+         "rank" : 4,
+         "subject" : {
+         "rating" : {"max":10,"average":6.7,"stars":"50","min":0},
+         "title" : "坚不可摧",
+         "original_title" : "Oblivion",
+         "subtype" : "movie",
+         "year" : "2014",
+         "images" : {
+         "small":"http://img3.douban.com/view/photo/icon/public/p1931650344.jpg",
+         "large":"http://img3.douban.com/view/movie_poster_cover/lpst/public/p1931650344.jpg",
+         "medium":"http://c.hiphotos.baidu.com/baike/w%3D268/sign=cdcbfa0a452309f7e76faa144a0f0c39/3bf33a87e950352a44ddca965043fbf2b3118bf4.jpg"
+         },
+         "alt" : "http://movie.douban.com/subject/3895511",
+         "id" : "3895511"
+         }
+         },
+                 
+         { "box" : 58158000,
+         "new" : false,
+         "rank" : 5,
+         "subject" : {
+         "rating" : {"max":10,"average":6.7,"stars":"50","min":0},
+         "title" : "变形金刚4：绝迹重生",
+         "original_title" : "Oblivion",
+         "subtype" : "movie",
+         "year" : "2014",
+         "images" : {
+         "small":"http://img3.douban.com/view/photo/icon/public/p1931650344.jpg",
+         "large":"http://img3.douban.com/view/movie_poster_cover/lpst/public/p1931650344.jpg",
+         "medium":"http://g.hiphotos.baidu.com/baike/c0%3Dbaike80%2C5%2C5%2C80%2C26/sign=1b0bab972a34349b600b66d7a8837eab/7e3e6709c93d70cf05e1e080fadcd100baa12b27.jpg"
+         },
+         "alt" : "http://movie.douban.com/subject/3895511",
+         "id" : "3895511"
+         }
+         },
+                 { "box" : 78158000,
+                 "new" : false,
+                 "rank" : 7,
+                 "subject" : {
+                 "rating" : {"max":10,"average":6.7,"stars":"50","min":0},
+                 "title" : "速度与激情6",
+                 "original_title" : "Oblivion",
+                 "subtype" : "movie",
+                 "year" : "2014",
+                 "images" : {
+                 "small":"http://img3.douban.com/view/photo/icon/public/p1931650344.jpg",
+                 "large":"http://img3.douban.com/view/movie_poster_cover/lpst/public/p1931650344.jpg",
+                 "medium":"http://d.hiphotos.baidu.com/baike/s%3D220/sign=7bedf9cfbe3eb13540c7b0b9961fa8cb/38dbb6fd5266d016f2c34b0f952bd40735fa353b.jpg"
+                 },
+                 "alt" : "http://movie.douban.com/subject/3895511",
+                 "id" : "3895511"
+                 }
+                 },
+                 
+                 { "box" : 68158000,
+                 "new" : false,
+                 "rank" : 6,
+                 "subject" : {
+                 "rating" : {"max":10,"average":6.7,"stars":"50","min":0},
+                 "title" : "肖申克的救赎",
+                 "original_title" : "The Shawshank Redemptio",
+                 "subtype" : "movie",
+                 "year" : "1994",
+                 "images" : {
+                 "small":"http://img3.douban.com/view/photo/icon/public/p1931650344.jpg",
+                 "large":"http://img3.douban.com/view/movie_poster_cover/lpst/public/p1931650344.jpg",
+                 "medium":"http://a.hiphotos.baidu.com/baike/s%3D220/sign=183d4c79a918972ba73a07c8d6cd7b9d/8718367adab44aede658ce89b11c8701a18bfb4d.jpg"
+                 },
+                 "alt" : "http://movie.douban.com/subject/3895511",
+                 "id" : "3895511"
+                 }
+                 },
+                 
+                 { "box" : 78158000,
+                 "new" : false,
+                 "rank" : 7,
+                 "subject" : {
+                 "rating" : {"max":10,"average":6.7,"stars":"50","min":0},
+                 "title" : "泰坦尼克号3D",
+                 "original_title" : "Oblivion",
+                 "subtype" : "movie",
+                 "year" : "1997",
+                 "images" : {
+                 "small":"http://img3.douban.com/view/photo/icon/public/p1931650344.jpg",
+                 "large":"http://img3.douban.com/view/movie_poster_cover/lpst/public/p1931650344.jpg",
+                 "medium":"http://d.hiphotos.baidu.com/baike/w%3D268/sign=a0b411690b23dd542173a06ee908b3df/f9dcd100baa1cd11192c1f2dbb12c8fcc3ce2d20.jpg"
+                 },
+                 "alt" : "http://movie.douban.com/subject/3895511",
+                 "id" : "3895511"
+                 }
+                 }
+                 
+                
+    ],
+    "title":"电影北美票房榜"
+}
